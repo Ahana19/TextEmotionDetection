@@ -22,7 +22,7 @@ A Python-based web app that detects emotions in text using machine learning and 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Ahana19/TextSummarizerWebApp
+    git clone https://github.com/Ahana19/TextEmotionDetection
     cd text-summarization-web-app
     ```
 
